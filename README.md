@@ -19,6 +19,8 @@ We offer a wide range of AWS cloud services, including but not limited to:
 - **Database Services**: Optimize data management with AWS RDS, DynamoDB, and other database solutions.
 - **Networking**: Design robust and scalable network architectures using AWS VPC, Route 53, and more.
 
+![AWS Logo](https://logo.clearbit.com/aws.amazon.com)
+
 ### DevOps Practices
 
 Empower your development and operations teams with our DevOps services:
@@ -32,7 +34,24 @@ Empower your development and operations teams with our DevOps services:
 Harness the power of container orchestration and service mesh with our Kubernetes and Istio services:
 
 - **Kubernetes Deployment**: Streamline application deployment, scaling, and management.
+
+![Kubernetes Logo](https://logo.clearbit.com/kubernetes.io)
+
 - **Istio Service Mesh**: Enhance security, observability, and traffic management in your microservices architecture.
+
+![Istio Logo](https://logo.clearbit.com/istio.io)
+
+## Cloud Platforms
+
+Extend your reach with our expertise in major cloud platforms:
+
+- **Microsoft Azure**
+
+![Azure Logo](https://logo.clearbit.com/microsoft.com/azure)
+
+- **Google Cloud Platform (GCP)**
+
+![GCP Logo](https://logo.clearbit.com/cloud.google.com)
 
 ## Getting Started
 
